@@ -26,7 +26,7 @@ Gere Título para um formato de e-Book, onde o tema principal será explicar um 
 Crie um kit de imagens para um e-Book e programa web chamado "Belly Dance Steps", com o subtítulo "Movimentos da Dança do Ventre". Inclua: 1. Logo. 2. Imagem central de capa. 3. Imagem de fundo. Tema: Movimentos da dança do ventre com um game/desafio de sequências aleatórias para treinar. Cores: Vermelho: #C50000, Preto: #000000, Branco: #ffffff, Cinza: #7c7c7c. Estilo: Abstrato com qualidade. Fundo preto com sombras vermelhas e brancas de dançarina. Desenhos abstratos simbolizando movimentos sinuosos, curvas, giros, e elementos como fogo, água, terra, ar. Opções: Logo e fundo no mesmo estilo. Versões com cores escuras e claras.
 
 
-## [Link do Repositório]()
+## [Link do Repositório](https://github.com/Marcia-Moreira/e-Book_com_IA)
 
 ## [Link do Projeto PowerPoint](https://docs.google.com/presentation/d/1kAEO0KYJJiU7TmrNK10bDExdt4QCy5QaYHuyKDLPjj0/edit?usp=sharing)
 
